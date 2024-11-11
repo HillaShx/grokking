@@ -1,5 +1,5 @@
 from datetime import datetime
-from a_sliding_window.averages_of_sub_arrays import solution, input_data
+from a_sliding_window.maximum_sum_of_subarray import solution, input_data
 
 
 def main():
